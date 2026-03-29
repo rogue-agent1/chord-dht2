@@ -1,10 +1,9 @@
-# Chord Dht2
+# chord_dht2
 
-A zero-dependency Python CLI tool.
-
-## Usage
+Chord DHT with finger tables, stabilization, distributed key-value storage
 
 ```bash
-python chord_dht2.py test
-python chord_dht2.py demo
+python3 chord_dht2.py test
 ```
+
+Zero deps. Python 3.8+.
